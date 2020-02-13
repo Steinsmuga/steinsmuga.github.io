@@ -8,5 +8,7 @@ VEFÞ1VG - Tækniskólinn - Steinn Þorkelsson
  * [Liður 2.1](https://steinsmuga.github.io/Verkefni-2-boxmodel/Liður-2.1/index.html)
  * [Liður 2.2](https://steinsmuga.github.io/Verkefni-2-boxmodel/Liður-2.3/index.html)
  * [Liður 2.3](https://steinsmuga.github.io/Verkefni-2-boxmodel/Liður-2.4/index.html)
+**Verkefni 3:**
+* [CSS GRID](https://steinsmuga.github.io/Verkefni-3cssgrid/forsida.html)
  
  ![Matrix Gif](MATRIX.gif)
