@@ -11,5 +11,8 @@ VEFÞ1VG - Tækniskólinn - Steinn Þorkelsson
 
 **Verkefni 3:**
 * [CSS GRID](https://steinsmuga.github.io/Verkefni-3cssgrid/forsida.html)
+
+**Verkefni 4:**
+* [Sveigjanleg hönnun](https://steinsmuga.github.io/Vekefni-4/index.html)
  
  ![Matrix Gif](MATRIX.gif)
