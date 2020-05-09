@@ -276,7 +276,8 @@ h3 {
 
 footer {
     color: white;
-    display: grid;
+    display: flex;
+    flex-direction: row;
     width: 71%;
     margin: auto;
     border: 4px solid black;
@@ -379,7 +380,11 @@ footer li {
         font-size: 24px;
     }
     footer {
+        flex-direction: column;
         width: 75%;
+    }
+    footer div {
+        
     }
 }
 @media screen and (max-width: 600px) {
@@ -411,6 +416,7 @@ footer li {
         width: 80%;   
     }
     footer  {
+        
         width: 91%;
         margin: 0;
     }
